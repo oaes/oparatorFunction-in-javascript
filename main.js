@@ -1,0 +1,32 @@
+//----------------operators in js-----------------------
+var a = 80
+var b = 88
+console.log(++a)
+console.log(a++)
+console.log(--a)
+console.log(b--)
+console.log(b)
+console.log(a++)
+console.log(a)
+console.log(a=!b)
+console.log(a==b)
+console.log(a==b)
+console.log(typeof 80)
+console.log(typeof 'akash')
+console.log(typeof true)
+console.log(a < b )
+console.log(a > b)
+console.log(a <= b)
+console.log(a >= b)
+console.log(Math.E)
+var x = 4.344
+console.log(Math.abs(x))
+console.log(Math.floor(x))
+console.log(Math.ceil(x))
+console.log(Math.round(x))
+console.log(Math.max(80,70,90))
+console.log(Math.min(80,60,30))
+console.log(Math.pow(8,9))// 
+ console.log(Math.pow(4,3))
+ console.log(Math.sqrt(4))
+ console.log(Math.random())
